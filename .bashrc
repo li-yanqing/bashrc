@@ -17,3 +17,9 @@ alias k9='kill -9'
 
 
 alias vvim='vim -u ~/.vimconfig/.vimrc '
+
+findfile(){
+   find . -iname "$1"
+}
+
+alias f='filefile'
