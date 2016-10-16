@@ -12,7 +12,7 @@ alias rm='rm -i'
 alias cp='cp -i'
 alias mv='mv -i'
 alias p='ps -aux|grep '
-alias np='netstat -an|grep '
+alias np='netstat -anp|grep '
 alias k9='kill -9'
 
 
